@@ -1,0 +1,80 @@
+h1{
+    font-size: 40px;
+}
+#caption{
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   text-size-adjust: auto;
+}
+body{
+    background-color: whitesmoke;
+}
+div{
+    border-radius: 4px;
+
+
+    background-color: white;
+    
+
+   padding:20px;
+    width: 220px;
+    height: 260px;
+    margin:auto;
+    
+}
+div.footer{
+    background:white;
+    width: auto;
+
+}
+footer a{
+    text-decoration-line: none;
+    color:grey;
+    
+}
+footer a:hover{
+    text-decoration-line: underline;
+}
+ 
+.design{
+    border-color:grey;
+    border-radius: 4px;
+    border:3px;
+    border-style: groove;
+    padding: 20px;
+    padding: left 1px;
+    width:200px;
+    height: 12px;
+    text-align: center;
+    
+    
+}
+.design:hover{
+     
+     height: 70px;
+     
+     
+}
+.login{
+    background-color:blue;
+    border: 3px;
+    border-radius: 3px;
+     padding:20px;
+     padding-bottom: 30px;
+     width:200px;
+     height: 12px;
+     margin:auto;
+     border-spacing: 4px;
+     text-align: center;
+    
+}
+.newac{
+    background-color:green;
+    border: 3px;
+    border-radius: 3px;
+    padding:20px;
+    width:200px;
+    height: 40px;
+    margin:auto;
+    text-align: center;
+}
